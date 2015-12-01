@@ -1,5 +1,6 @@
 # 3dlabs-excelcdata
 
+## first you need to make a folder name excel data so that all uploaded files is set on that folder
 ##use 3dlabs.sql file as database and  import it in your code start using databse name 3dlabs and table name is test
 ## need to change the databse details in config.php file in your system
 
@@ -17,3 +18,4 @@
 ## Thanks 
 ## Warm Regards
 ## Madhur gaba web application developer
+
